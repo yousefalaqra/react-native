@@ -1,8 +1,8 @@
 # react-native
 
-I've created this project (my first react native app), to learn more about react-native so i would be able to build native cross-platform mobile application for IOS and Android.<h2/>
+I've created this project (my first react native app), to learn more about react-native so i would be able to build native cross-platform mobile application for IOS and Android
 
-<h2>Currently, the project contains the following (I'll keep adding more features):
+<h2>Currently, the project contains the following (I'll keep adding more features):<h2/>
 
 -Text input to enable the user to insert a place
 
