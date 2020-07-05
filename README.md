@@ -4,19 +4,20 @@ I've created this project (my first react native app), to learn more about react
 
 <h2>Currently, the project contains the following (I'll keep adding more features):</h2>
 
--Text input to enable the user to insert a place
+<ul>
+  <li>Text input to enable the user to insert a place</li>
 
--Flast list that shows all the inserted places with an image for each place.
+<li>Flast list that shows all the inserted places with an image for each place</li>
 
--Modal component to show a specific place details
+<li>Modal component to show a specific place details</li>
 
--Delete button, to enable the user to delete a specific place.
+<li>Delete button, to enable the user to delete a specific place<li>
 
--Redux library has been used for managing application state
+<li>Redux library has been used for managing application state</li>
 
--More features will be added to the application...
+<li>More features will be added to the application...</li>
 
-
+</ul>
 
 <br/>
 
@@ -24,10 +25,13 @@ I've created this project (my first react native app), to learn more about react
 
 <h2>To run the application locally on your machine:</h2>
 
--Make sure that Nodejs is installed on your machine.
+<ol>
+  <li> Make sure that Nodejs is installed on your machine by running <code>node -v</code> command</li>
 
--Clone the repository into your machine
+<li>Clone the repository into your machine</li>
 
--Run <b>npm install</b> command in the same folder of the repository
+<li>Run <code>npm install</code> command in the same folder of the repository</li>
 
--Next, in case you are targeting android platform run <b>npx react-native run android<b/>, and for IOS, <b>npx react native run ios</b?
+<li>Next, in case you are targeting android platform run <code>npx react-native run android</code><li>
+  <li>And for IOS, <code>npx react-native run ios</code><li>
+</ol>
