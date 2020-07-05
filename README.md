@@ -11,7 +11,7 @@ I've created this project (my first react native app), to learn more about react
 
 <li>Modal component to show a specific place details</li>
 
-<li>Delete button, to enable the user to delete a specific place<li>
+<li>Delete button, to enable the user to delete a specific place</li>
 
 <li>Redux library has been used for managing application state</li>
 
@@ -32,6 +32,6 @@ I've created this project (my first react native app), to learn more about react
 
 <li>Run <code>npm install</code> command in the same folder of the repository</li>
 
-<li>Next, in case you are targeting android platform run <code>npx react-native run android</code><li>
-  <li>And for IOS, <code>npx react-native run ios</code><li>
+<li>Next, in case you are targeting android platform run <code>npx react-native run android</code></li>
+  <li>And for IOS, <code>npx react-native run ios</code></li>
 </ol>
