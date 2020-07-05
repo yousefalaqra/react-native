@@ -17,12 +17,17 @@ Currently, the project contains the following (I'll keep adding more features):
 -More features will be added to the application...
 
 
+
+<br/>
+
+
+
 To run the application locally on your machine:
 
 -Make sure that Nodejs is installed on your machine.
 
 -Clone the repository into your machine
 
--Run npm install command in the same folder of the repository
+-Run <b>npm install</b> command in the same folder of the repository
 
--Next, in case you are targeting android platform run npx react-native run android, and for IOS, npx react native run ios
+-Next, in case you are targeting android platform run <b>npx react-native run android<b/>, and for IOS, <b>npx react native run ios</b?
